@@ -1,0 +1,22 @@
+.App  {
+  padding: 20px 20px;
+}
+h2 {
+  text-decoration: none;
+  font-size: 20px;
+  text-align: justify;
+  
+}
+.MP {
+  color: rgb(79, 10, 189);
+}
+img {
+  height: 200px;
+  width: 200px;
+  border-radius: 80%;
+  margin: 5px 5px 20px;
+  border-color: rgb(247, 243, 243);
+  border-width: 20px;
+  filter: contrast(200%);
+  border: 2px solid rgb(2, 172, 163);
+}
